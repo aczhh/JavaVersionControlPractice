@@ -12,3 +12,5 @@ Halo semuanya!
 4. Kalau berhasil, nanti muncul tulisan “Halo semuanya!” di terminal.
 
 ## Catatan
+Masih latihan dasar Git dan Java, jadi project-nya masih simpel banget.  
+Nanti kalau udah paham, mungkin bakal dicoba tambah fitur lain.
